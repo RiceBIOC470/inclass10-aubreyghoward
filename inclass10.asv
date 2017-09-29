@@ -42,7 +42,6 @@ subplot(1,2,2);
 scatter(sc(:,1),sc(:,2),4^2,ida)%plot 
 hold off;
 
-% Adam Howard: Clearly the better clustering number is 3 as it generates 
-% sub-populaitons that do not overlap. In the 7 group cluster, we are 
-% fragmenting several of the major groups into smaller groups that do not 
-% appear to acctually exist.
+Adam Howard: Clearly the better clustering number is 3 as it generates 
+sub-populaitons that do not overlap. In the 7 group cluster, we are 
+fragmenting several of the groups into 
